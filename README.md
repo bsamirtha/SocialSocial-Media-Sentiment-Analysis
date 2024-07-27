@@ -15,10 +15,18 @@ For this project, we will be using the Sentiment140 dataset, available at [Kaggl
 
 This dataset is invaluable for training models to detect sentiment in tweets, offering a rich source of annotated data for analysis.
 
-# Plan of Action 
-
-
-
-
 
 # Key Leanings
+
+
+1. **Effective Data Preprocessing**  
+   Proper preprocessing, including tokenization, stemming/lemmatization, and removing stop words, is essential for accurate sentiment classification.
+
+2. **Vectorization Techniques**  
+   Selecting appropriate vectorization methods like `TfidfVectorizer` or `CountVectorizer` converts text into numerical data, which is crucial for model training.
+
+3. **Sentiment Labeling and Interpretation**  
+   Accurate sentiment labeling (positive, negative, neutral) and interpretation are vital for training models that reliably classify sentiments.
+
+4. **Model Evaluation Metrics**  
+   Use metrics such as accuracy, precision, recall, and F1-score to evaluate model performance and ensure it generalizes well to new data.
