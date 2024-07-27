@@ -6,7 +6,7 @@ Sentiment analysis enables businesses to uncover the emotions and opinions behin
 
 For this project, we will be using the Sentiment140 dataset, available at [Kaggle](https://www.kaggle.com/datasets/kazanova/sentiment140). The dataset contains 1,600,000 tweets, extracted using the Twitter API, annotated for sentiment analysis. Each entry includes the following fields:
 
-- **target:** Polarity of the tweet (0 = negative, 2 = neutral, 4 = positive)
+- **target:** Polarity of the tweet (0 = negative, 4 = positive)
 - **ids:** Unique ID of the tweet (e.g., 2087)
 - **date:** Date and time of the tweet (e.g., Sat May 16 23:58:44 UTC 2009)
 - **flag:** Query used (e.g., lyx). If no query was used, this value is NO_QUERY.
