@@ -1,4 +1,4 @@
-# SocialSocial-Media-Sentiment-Analysis
+# Social-Media-Sentiment-Analysis
 
 Sentiment analysis enables businesses to uncover the emotions and opinions behind online mentions, providing valuable insights into public perception. By understanding these sentiments, companies can proactively address issues and enhance their brand's reputation. This system helps improve product offerings by identifying what resonates with customers and what doesn't. Marketers can analyze comments from review sites, survey responses, and social media posts to gain detailed insights into specific product features. These findings are then conveyed to product engineers, driving innovation and continuous improvement.
 
